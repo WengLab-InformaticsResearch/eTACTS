@@ -1,4 +1,4 @@
-# eTACTS #
+# eTACTS: Eligibility Tag Cloud-based Clinical Trial Search Engine (COVID-19 Version) #
 
 This is an updated version of the system focusing solely on COVID-related trials. The original eTACTS is developed by Dr. Riccardo Miotto, see https://github.com/riccardomiotto/etacts
 
